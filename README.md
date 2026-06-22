@@ -1,12 +1,12 @@
 🎬 Movie Recommender System
-🚀 **Live Demo:** https://movie-recommender-system-5djo4astjuq3b5z7idmbzx.streamlit.app
 > **End-to-end collaborative filtering pipeline — Memory-based CF · SVD Matrix Factorisation · Hybrid Ensemble**
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red
 ![Tests](https://img.shields.io/badge/Tests-21%20passed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ---
+🚀 **Live Demo:** https://movie-recommender-system-5djo4astjuq3b5z7idmbzx.streamlit.app
 Overview
 A production-structured movie recommendation system built on the MovieLens 100K dataset (100,000 ratings from 943 users across 1,682 movies). The project implements and compares three complementary recommendation strategies, evaluated with standard information-retrieval metrics.
 Model	Approach	Key Technique
