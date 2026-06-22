@@ -9,10 +9,14 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
 
+matplotlib.rcParams["font.family"] = "DejaVu Sans"
+matplotlib.rcParams['axes.formatter.use_mathtext'] = False
 sns.set_theme(style="whitegrid", palette="muted")
 FIGSIZE = (12, 5)
 
