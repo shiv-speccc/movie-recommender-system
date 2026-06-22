@@ -1,4 +1,5 @@
 🎬 Movie Recommender System
+🚀 **Live Demo:** https://movie-recommender-system-5djo4astjuq3b5z7idmbzx.streamlit.app
 > **End-to-end collaborative filtering pipeline — Memory-based CF · SVD Matrix Factorisation · Hybrid Ensemble**
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
