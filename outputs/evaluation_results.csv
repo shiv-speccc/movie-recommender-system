@@ -1,0 +1,4 @@
+,Precision@10,Recall@10,NDCG@10,Coverage,Queries evaluated
+CF,0.434,0.014,0.678,0.1406,50.0
+SVD,0.436,0.0152,0.7357,0.1466,50.0
+Hybrid,0.546,0.0183,0.7906,0.1322,50.0
