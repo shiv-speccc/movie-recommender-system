@@ -157,6 +157,24 @@ pytest tests/ -v   # 21 tests, no dataset required
 
 ---
 
+## Results
+
+### Get Recommendations
+<img width="713" height="472" alt="image" src="https://github.com/user-attachments/assets/0fa7a527-345d-413a-8931-2c9d605dc082" />
+
+
+### Explore Data
+<img width="959" height="408" alt="image" src="https://github.com/user-attachments/assets/cf533aab-967f-4666-8fa4-b0e6f88e42af" />
+
+
+### Top Movies
+<img width="864" height="494" alt="image" src="https://github.com/user-attachments/assets/51f7bc9b-fc8f-4447-bbcf-e819cf4d24fb" />
+
+
+### Evaluation Metrics
+<img width="365" height="71" alt="image" src="https://github.com/user-attachments/assets/6acc75e4-ed69-446d-8434-d8771da259bf" />
+
+
 ## Interview Discussion Points
 
 - **Popularity bias** — Bayesian averaging vs. raw mean; the 70th-percentile confidence prior
